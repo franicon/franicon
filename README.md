@@ -1,6 +1,6 @@
 ### Hi there, I'm Abayomi 👋
 
-## I'm a Frontend Developer, who love to code! 
+## I'm a Developer, who love to code! 
 
 - 📚 I’m currently learning,TypeScript, PHP,Laravel and SQL.
 - 👯 I’m open to work and available to collaborate with other developers.
