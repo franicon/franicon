@@ -2,8 +2,8 @@
 
 ## I'm a Developer, who love to code! 
 
-- 📚 I’m currently learning,TypeScript, Node,Laravel and SQL.
-- 👯 I’m open to work and available to collaborate with other developers.
+- 📚 I’m currently learning: TypeScript, Node, Laravel, MongoDb, SQL, and DevOps
+- 👯 I’m available to collaborate with other developers.
 - 🥅 2022 Goals: Master Full-Stack Dev and Contribute to Open Source projects.
 - ⚡ Fun fact: I love playing Video games.
 
