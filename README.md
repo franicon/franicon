@@ -1,6 +1,6 @@
 ### Hi there, I'm Abayomi 👋
 
-## I'm a Developer, who love to code! 
+## I'm a Programmer, who love to code! 
 
 - 📚 I’m currently learning: TypeScript, Node, MongoDb, SQL, Nest JS, Laravel, and DevOps
 - 👯 I’m available to collaborate with other developers.
