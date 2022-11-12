@@ -5,7 +5,7 @@
 - 📚 I’m currently learning: TypeScript, Node, MongoDb, SQL, Nest JS, Laravel, and DevOps
 - 👯 I’m available to collaborate with other developers.
 - 🥅 2022 Goals: Master Full-Stack Dev and Contribute to Open Source projects.
-- ⚡ Fun fact: I love playing Video games.
+- ⚡ Fun fact: I love playing video games.
 
 ### Languages and Tools:
 
