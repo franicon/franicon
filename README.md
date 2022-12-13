@@ -1,5 +1,5 @@
 
-###  making the web experience dynamic! 
+###  Making the web experience dynamic! 
 
 - 📚 I’m currently learning: Node, MongoDb, Nest JS, Laravel, and DevOps
 - 👯 I’m available to collaborate with other developers.
