@@ -1,10 +1,9 @@
-### Hi there, I'm Abayomi 👋
 
-## I make things on the web dynamic! 
+###  making the web experience dynamic! 
 
-- 📚 I’m currently learning: TypeScript, Node, MongoDb, SQL, Nest JS, Laravel, and DevOps
+- 📚 I’m currently learning: Node, MongoDb, Nest JS, Laravel, and DevOps
 - 👯 I’m available to collaborate with other developers.
-- 🥅 2022 Goals: Master Full-Stack Dev and Contribute to Open Source projects.
+- 🥅 2023 Goals: Master Full-Stack Dev and Contribute to Open Source projects.
 - ⚡ Fun fact: I love playing video games.
 
 ### Languages and Tools:
@@ -18,8 +17,6 @@
 <img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
 
 <br />
 <br />
