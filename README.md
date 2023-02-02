@@ -1,26 +1,24 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/25548490/121235884-40eab680-c88d-11eb-9a5d-b923d7df4905.png" width="120" />  
   <h1 align="center"><a href="https://codewonders.dev">I'm Abayomi Francis Aluko</a></h1>
   <p align="center"> Full-stack developer, Software engineer</p>
 </p>
 
 <p align="center">
-  <a href="https://codewonders.dev">Portfolio</a> | 
-  <a href="https://twitter.com/code_wonders">Twitter</a> |
-  <a href="https://linkedin.com/in/codewonders">LinkedIn</a>
+  <a href="https://franicons.dev">Portfolio</a> | 
+  <a href="https://twitter.com/yomialuko7">Twitter</a> |
+  <a href="https://linkedin.com/in/abayomi-aluko-75887b202">LinkedIn</a>
 </p>
 
 <br />
 
-💫 I'm currently working with my hands to make magic happen on the web. View my [Projects](https://codewonders.dev/projects), [Articles](https://codewonders.dev/articles), [Resumé](https://codewonders.dev/resume), [Contact Me](https://codewonders.dev/contact).
+💫 I'm working on making the web experince dynamic, fast and accessable. View my [Projects](https://franicons.dev/projects), [Articles](https://franicons.dev/articles), [Resumé](https://franicons.dev/resume), [Contact Me](https://franicons.dev/contact).
 
 📫 You can reach me at franicons@gmail.com.
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning everything around JAVASCRIPT, TYPESCRIPT, NODEJS, NESTJS, EXPRESSJS AND DEVOPS.
-- 👓 Yeah I'm a photochromic lens enthusiast, see my collections [here](https://codewonders.dev/lens)
-- 💬 Ask me about JavaScript, CSS, React, Vue and anything about Jazz Music 🎺
-- ⚡ Fun fact: I play the drums 🥁.
+- 💬 Ask me about Typescript, Javasctipt, NestJs, NodeJs, Vue and anything about Games 🎺
+- ⚡ Fun fact: I love playing video games.
 
 
 
