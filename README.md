@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center"><a href="https://franicons.dev">I'm Abayomi Francis Aluko</a></h1>
-  <p align="center"> Full-stack developer, Software engineer</p>
+  <p align="center"> Software engineer</p>
 </p>
 
 <p align="center">
