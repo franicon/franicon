@@ -17,7 +17,7 @@
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning everything around JAVASCRIPT, TYPESCRIPT, NODEJS, NESTJS, EXPRESSJS AND DEVOPS.
-- 💬 Ask me about Typescript, Javascript, NestJs, NodeJs, VueJs
+- 💬 Ask me about TypeScript, JavaScript, NestJS, NodeJS, VueJS
 - ⚡ Fun fact: I love playing video games.
 
 
