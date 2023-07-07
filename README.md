@@ -16,7 +16,7 @@
 📫 You can reach me at franicons@gmail.com.
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning everything around JAVASCRIPT, TYPESCRIPT, NODEJS, NESTJS, EXPRESSJS AND DEVOPS.
+- 🌱 I’m currently learning everything around JavaScript, TypeScript, Laravel, NestJS, NodeJS AND DEVOPS.
 - 💬 Ask me about TypeScript, JavaScript, NestJS, NodeJS, VueJS
 - ⚡ Fun fact: I love playing video games.
 
