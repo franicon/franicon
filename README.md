@@ -4,21 +4,20 @@
 </p>
 
 <p align="center">
-  <a href="https://franicons.dev">Portfolio</a> | 
+  <a href="https://abayomi-francis-aluko.netlify.app/">Portfolio</a> | 
   <a href="https://twitter.com/yomialuko7">Twitter</a> |
   <a href="https://linkedin.com/in/abayomi-aluko-75887b202">LinkedIn</a>
 </p>
 
 <br />
 
-💫 I'm working on making the web experince dynamic, fast and accessable. View my [Projects](https://franicons.dev/projects), [Articles](https://franicons.dev/articles), [Resumé](https://franicons.dev/resume), [Contact Me](https://franicons.dev/contact).
-
+ I'm working on making the web experince dynamic, fast and accessable. View my [Projects](https://abayomi-francis-aluko.netlify.app)
 📫 You can reach me at franicons@gmail.com.
 
-- 😄 Pronouns: He/Him
-- 🌱 I’m currently learning everything around JavaScript, TypeScript, Laravel, NestJS, NodeJS AND DEVOPS.
-- 💬 Ask me about TypeScript, JavaScript, NestJS, NodeJS, VueJS
-- ⚡ Fun fact: I love playing video games.
+-  Pronouns: He/Him
+-  I’m currently learning everything around JavaScript, TypeScript, Laravel, NestJS, NodeJS AND DEVOPS.
+-  Ask me about TypeScript, JavaScript, NestJS, NodeJS, VueJS
+-  Fun fact: I love playing video games.
 
 
 
