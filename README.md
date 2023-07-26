@@ -22,8 +22,6 @@
 
 
 <!--
-**adenekan41/adenekan41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 https://user-images.githubusercontent.com/25548490/121235376-b86c1600-c88c-11eb-9650-2c86c77f43ac.png
 - 🔭 I’m currently working on ...
