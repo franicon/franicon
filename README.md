@@ -15,7 +15,7 @@
 📫 You can reach me at franicons@gmail.com.
 
 -  Pronouns: He/Him
--  Here are few of the web technologies i have been working with JavaScript, TypeScript, NodeJS, ExpressJS, NestJS & Laravel
+-  Stacks: JavaScript, TypeScript, NodeJS, ExpressJS, NestJS & Laravel, ReacJS, VueJS
 -  Fun fact: I love playing video games.
 
 
