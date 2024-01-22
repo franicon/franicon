@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center"><a href="https://franicons.dev">I'm Abayomi Francis Aluko</a></h1>
-  <p align="center"> Software engineer</p>
+  <p align="center"> Software engineer | Devops </p>
 </p>
 
 <p align="center">
@@ -14,8 +14,7 @@
  I'm working on making the web experince dynamic, fast and accessable. View my [Projects](https://abayomi-francis-aluko.netlify.app)
 📫 You can reach me at franicons@gmail.com.
 
--  Pronouns: He/Him
--  Stacks: JavaScript, TypeScript, NodeJS, ExpressJS, NestJS & Laravel, ReacJS, VueJS
+-  Stacks: JavaScript, TypeScript, NodeJS, ExpressJS, NestJS & Laravel, ReacJS, VueJS, Docker
 -  Fun fact: I love playing video games.
 
 
