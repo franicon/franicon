@@ -1,5 +1,5 @@
 <p align="center">
-  <h5 align="center"><a href="https://franicons.dev">I'm Abayomi Francis Aluko</a></h5>
+  <h2 align="center"><a href="https://franicons.dev">I'm Abayomi Francis Aluko</a></h2>
   <p align="center"> Backend Developer </p>
 </p>
 
