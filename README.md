@@ -1,12 +1,6 @@
 <p align="center">
-  <h1 align="center"><a href="https://franicons.dev">I'm Abayomi Francis Aluko</a></h1>
-  <p align="center"> Software engineer | Devops </p>
-</p>
-
-<p align="center">
-  <a href="https://abayomi-francis-aluko.netlify.app/">Portfolio</a> | 
-  <a href="https://twitter.com/yomialuko7">Twitter</a> |
-  <a href="https://linkedin.com/in/abayomi-aluko-75887b202">LinkedIn</a>
+  <h5 align="center"><a href="https://franicons.dev">I'm Abayomi Francis Aluko</a></h5>
+  <p align="center"> Backend Developer </p>
 </p>
 
 <br />
