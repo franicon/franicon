@@ -49,12 +49,8 @@ As a Lead Engineer, I've architected and delivered several high-impact platforms
 
 | Project | Description | Role |
 |---------|-------------|------|
-| **[Axion Exchange](https://axionexchange.io/)** | A robust Web3 cryptocurrency exchange platform requiring high security, low latency, and scalable blockchain integrations. | Lead Architect & Full Stack |
-| **[Vast Remit](https://vastremit.com/)** | A secure financial remittance and cross-border payment platform. | Lead Engineer |
-| **[Oyato](https://site.oyato.ng/)** | A modern e-commerce and retail platform optimized for high traffic and seamless user experience. | Technical Lead |
-| **[WalesB](https://walesb.ng/)** | Digital platform providing localized services with a focus on intuitive UI and reliable backend performance. | System Architect |
-| **[Rentall](https://rentall.ng/)** | A comprehensive property and equipment rental marketplace. | Lead Full Stack Engineer |
-| **[Omavon](https://withomavon.com/)** | Innovative digital solution tailored for business operations and client management. | Lead Developer |
+| **[Tech201LTD](https://tech201.dev/)** | Robust admin dashboards and backend infrastructures built on trust, providing companies with a scalable foundation and security. | Lead Architect & Full Stack |
+
 
 ---
 
